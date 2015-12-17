@@ -1,8 +1,22 @@
 {
-    "author" : "laukik Nirgudkar",
-    "email" : "laukiknirgudkar@gmail.com",
-    "vesrion" : "0.0.1"
-    "dependencies" : {
-        "colour" : "*"
-    }
+  "author": "Laukik Nirgudkar",
+  "email" : "laukiknirgudkar@gmail.com",
+  "name": "logjs",
+  "description": "Minimal logging API",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/laukik/logjs.git"
+  },
+  "main": "./lib/logjs",
+  "keywords": [
+    "log",
+    "logging",
+    "log-level"
+  ],
+  "dependencies": {
+      "colors" : "*"
+  },
+  "engines": {
+    "node": "*"
+  }
 }
