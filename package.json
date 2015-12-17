@@ -3,7 +3,7 @@
   "email" : "laukiknirgudkar@gmail.com",
   "name": "logjsx",
   "description": "Minimal logging API",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": "https://github.com/laukik/logjs.git"
   },
