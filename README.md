@@ -14,7 +14,7 @@ How to Use :
 
 ```javascript
     
-    var logjs = require('./lib/logjs');
+    var logjs = require('logjsx');
     var logger = new logjs();
     
     logger.init({
