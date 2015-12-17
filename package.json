@@ -1,0 +1,7 @@
+{
+    "author" : "laukik Nirgudkar",
+    "email" : "laukiknirgudkar@gmail.com",
+    "dependencies" : {
+        "colour" : "*"
+    }
+}
