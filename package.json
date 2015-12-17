@@ -1,7 +1,7 @@
 {
   "author": "Laukik Nirgudkar",
   "email" : "laukiknirgudkar@gmail.com",
-  "name": "logjs",
+  "name": "logjsx",
   "description": "Minimal logging API",
   "version": "0.0.1",
   "repository": {
